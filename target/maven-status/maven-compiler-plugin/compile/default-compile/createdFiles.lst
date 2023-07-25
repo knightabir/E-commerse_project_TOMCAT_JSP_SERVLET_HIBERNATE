@@ -1,0 +1,14 @@
+com\abir\myshop\servlets\ProductOperationServlet.class
+com\abir\myshop\entities\Product.class
+com\abir\myshop\helper\Helper.class
+com\abir\myshop\resources\JakartaEE8Resource.class
+com\abir\myshop\dao\CategoryDao.class
+com\abir\myshop\JakartaRestConfiguration.class
+com\abir\myshop\entities\User.class
+com\abir\myshop\servlets\RegisterServlet.class
+com\abir\myshop\dao\ProductDao.class
+com\abir\myshop\servlets\LoginServlet.class
+com\abir\myshop\dao\UserDao.class
+com\abir\myshop\entities\Category.class
+com\abir\myshop\servlets\LogoutServlet.class
+com\abir\myshop\helper\FactoryProvider.class
